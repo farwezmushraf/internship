@@ -1,0 +1,9 @@
+ farwez
+ siddiq
+ jidesh
+& C:\Users\farwee\AppData\Local\Microsoft\WindowsApps\python3.13.exe c:/Users/farwee/OneDrive/Desktop/internship/day7/task4.py
+:\Users\farwee\AppData\Local\Microsoft\WindowsApps\python3.13.exe c:/Users/farwee/OneDrive/Desktop/internship/day7/task4.py
+C:\Users\farwee\AppData\Local\Microsoft\WindowsApps\python3.13.exe c:/Users/farwee/OneDrive/Desktop/internship/day7/task4.py
+ farwz
+zms
+jidesh

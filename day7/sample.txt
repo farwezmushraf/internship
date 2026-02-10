@@ -1,0 +1,3 @@
+welcom to AIML internship 2026.
+python file handling.
+python is python.
